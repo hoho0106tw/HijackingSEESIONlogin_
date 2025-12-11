@@ -1,0 +1,1 @@
+"By hijacking a session from a WebView — where the session is stored as cookies on the computer — it is possible, based on this principle, to access the desired website without performing any further actions."
